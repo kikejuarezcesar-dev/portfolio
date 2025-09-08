@@ -1,0 +1,13 @@
+{
+  "symbol": "TSLA",
+  "current_price": 349.6,
+  "moving_avg": 322.31799875895183,
+  "lower_band": 319.1977785184944,
+  "upper_band": 325.4382189994093,
+  "alert_message": "\ud83d\ude80 TSLA est\u00e1 4.3% POR ENCIMA del intervalo inferior",
+  "alert_type": "overbought",
+  "window": 60,
+  "confidence": 0.9,
+  "timestamp": "2025-08-27T16:51:56.278093",
+  "alert_sent": true
+}

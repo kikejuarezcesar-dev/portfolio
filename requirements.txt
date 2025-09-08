@@ -1,0 +1,10 @@
+PyQt5==5.15.7
+yfinance==0.2.18
+pandas==1.5.3
+plotly==5.11.0
+kaleido==0.2.1
+numpy==1.23.5
+scipy==1.10.0
+statsmodels==0.13.5
+scikit-learn==1.2.2
+matplotlib==3.7.1

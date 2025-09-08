@@ -1,0 +1,13 @@
+{
+  "symbol": "AAPL",
+  "current_price": 230.49,
+  "moving_avg": 211.69131393432616,
+  "lower_band": 209.31153117020847,
+  "upper_band": 214.07109669844385,
+  "alert_message": "\ud83d\ude80 AAPL est\u00e1 4.9% POR ENCIMA del intervalo inferior",
+  "alert_type": "overbought",
+  "window": 60,
+  "confidence": 0.9,
+  "timestamp": "2025-08-27T16:51:55.619143",
+  "alert_sent": true
+}

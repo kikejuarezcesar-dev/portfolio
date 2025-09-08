@@ -1,0 +1,13 @@
+{
+  "symbol": "NVDA",
+  "current_price": 181.6,
+  "moving_avg": 164.78701502482096,
+  "lower_band": 161.64486280856872,
+  "upper_band": 167.9291672410732,
+  "alert_message": "\ud83d\ude80 NVDA est\u00e1 7.0% POR ENCIMA del intervalo inferior",
+  "alert_type": "overbought",
+  "window": 60,
+  "confidence": 0.9,
+  "timestamp": "2025-08-27T16:51:55.836978",
+  "alert_sent": true
+}

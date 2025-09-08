@@ -1,0 +1,13 @@
+{
+  "symbol": "MELI",
+  "current_price": 2337.44,
+  "moving_avg": 2428.3219970703126,
+  "lower_band": 2410.278889040395,
+  "upper_band": 2446.3651051002303,
+  "alert_message": "\ud83d\udd3b MELI est\u00e1 3.0% POR DEBAJO del intervalo inferior",
+  "alert_type": "buy_opportunity",
+  "window": 60,
+  "confidence": 0.9,
+  "timestamp": "2025-08-21T21:14:23.175102",
+  "alert_sent": true
+}

@@ -8,21 +8,21 @@ Una aplicación desktop completa para el análisis y supervisión de portafolios
 
 ## Características
 
-- Dashboard interactivo** con métricas en tiempo real
-- Integración con Yahoo Finance API** para precios actualizados
-- Análisis técnico** con gráficos interactivos (Plotly)
-- Sistema de alertas** inteligentes basado en estadística
-- Base de datos SQLite** para persistencia local
-- Interfaz dark theme** optimizada para macOS
-- Responsive design** adaptable a diferentes resoluciones
+- Dashboard interactivo con métricas en tiempo real
+- Integración con Yahoo Finance API para precios actualizados
+- Análisis técnico con gráficos interactivos (Plotly)
+- Sistema de alertas inteligentes basado en estadística
+- Base de datos SQLite para persistencia local
+- Interfaz dark theme optimizada para macOS
+- Responsive design adaptable a diferentes resoluciones
 
 ## Tecnologías Utilizadas
 
-- **Backend:** Python 3.8+, SQLite, yfinance API
-- **Frontend:** PyQt5, Plotly, Matplotlib
-- **Análisis de datos:** Pandas, NumPy, SciPy
-- **Visualización:** Plotly, Matplotlib
-- **Tools:** Git, GitHub, PEP8
+- Backend: Python 3.8+, SQLite, yfinance API
+- Frontend: PyQt5, Plotly, Matplotlib
+- Análisis de datos: Pandas, NumPy, SciPy
+- Visualización: Plotly, Matplotlib
+- Tools: Git, GitHub, PEP8
 
 ## Instalación
 
